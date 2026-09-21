@@ -1,4 +1,4 @@
-# Labirinto Recursivo 🎮
+# Labirinto Recursivo
 
 Projeto desenvolvido para a disciplina de **Estrutura de Dados** do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da **Universidade Tecnológica Federal do Paraná - UTFPR**.
 
@@ -156,7 +156,7 @@ Se a primeira alternativa não funcionar, o algoritmo retorna e tenta outra poss
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 labirinto-recursivo/
@@ -167,7 +167,7 @@ labirinto-recursivo/
 
 ---
 
-## Como compilar
+## 🎮 Como compilar
 
 É necessário possuir o compilador GCC instalado.
 
