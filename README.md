@@ -1,6 +1,6 @@
 # Game Labirinto Recursivo
 
-Atividades avaliativa desenvolvida para a disciplina de **Estrutura de Dados** do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da **Universidade Tecnológica Federal do Paraná - UTFPR**.
+Atividade avaliativa desenvolvida para a disciplina de **Estrutura de Dados** do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da **Universidade Tecnológica Federal do Paraná - UTFPR**.
 
 ---
 
