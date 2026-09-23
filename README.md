@@ -1,17 +1,17 @@
-# Labirinto Recursivo
+# Game Labirinto Recursivo
 
-Projeto desenvolvido para a disciplina de **Estrutura de Dados** do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da **Universidade Tecnológica Federal do Paraná - UTFPR**.
+Atividades avaliativa desenvolvida para a disciplina de **Estrutura de Dados** do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da **Universidade Tecnológica Federal do Paraná - UTFPR**.
 
 ---
 
-## Integrantes
+## Equipe
 
 - Gabriela de Oliveira Landgraf
 - Rafaela de Oliveira Landgraf
 
 ## 📌 Sobre o projeto
 
-O **Labirinto Recursivo** é um game simples desenvolvido em linguagem C no qual o jogador deve percorrer um labirinto até encontrar a saída.
+O **Labirinto Recursivo** é um jogo simples desenvolvido em linguagem C no qual o jogador deve percorrer um labirinto até encontrar a saída.
 
 A saída é representada pela letra `X`.
 
